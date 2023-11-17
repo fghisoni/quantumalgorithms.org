@@ -5,7 +5,7 @@
 knitr::include_graphics("images/wip.png")
 ```
 
-this is a test 
+another test
 
 In this chapter we will discuss the problem of manipulating classical information (numbers, vectors, matrices, and functions) into our quantum computer. More precisely, after describing possible ways of storing information into quantum states, we discuss the problem of loading and retrieving data from quantum computer. In other words, we are just studying the I/O interface of our quantum computer.
 
